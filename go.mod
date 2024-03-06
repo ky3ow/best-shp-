@@ -1,3 +1,3 @@
-module github.com/best-shop
+module vgsk/shop
 
 go 1.22.0
